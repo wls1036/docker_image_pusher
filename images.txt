@@ -1,1 +1,1 @@
-node:20.16-slim
+maven:3.6.3-openjdk-17-slim
